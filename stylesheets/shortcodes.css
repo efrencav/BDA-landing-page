@@ -245,7 +245,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -542,7 +542,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -623,7 +623,7 @@ body.style-color {
 }
 
 .flat-news .company-news .post-list .num-list {
-    float: left;
+    /* float: left; */
     display: inline-block;
     margin-right: 20px;
     color: #fff;
@@ -1433,7 +1433,7 @@ body.style-color {
 
 .case-single.v2 .post-case-single .content-post.v1 .list-post {
     display: inline-block;
-    float: left;
+    /* float: left; */
     width: 50%;
 }
 
@@ -1471,7 +1471,7 @@ body.style-color {
 .case-single .post-case-single.v2 .content-post.v3 {
     display: inline-block;
     width: 50%;
-    float: left;
+    /* float: left; */
 }
 
 .case-single .post-case-single.v2 .content-post.v3 {
@@ -1514,7 +1514,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -1549,7 +1549,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -1727,7 +1727,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -1771,7 +1771,7 @@ body.style-color {
 
 .flat-services .services-post .item {
     display: inline-block;
-    float: left;
+    /* float: left; */
     width: 33.33%;
     margin-bottom: 55px;
     padding: 0 15px;
@@ -1824,7 +1824,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -1875,7 +1875,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -1951,7 +1951,7 @@ body.style-color {
 }
 
 .flat-team .post-wrap.v2 .box .thumb {
-    float: left;
+    /* float: left; */
     display: inline-block;
     margin-right: 30px;
     margin-bottom: 0;
@@ -2026,7 +2026,7 @@ body.style-color {
 }
 
 .flat-partner .post-wrap.v2 .box .thumb {
-    float: left;
+    /* float: left; */
     display: inline-block;
     margin-right: 30px;
     margin-bottom: 0;
@@ -2097,7 +2097,7 @@ body.style-color {
 
 .flat-overview .post-overview .post-list .box {
     display: inline-block;
-    float: left;
+    /* float: left; */
     width: 50%;
 }
 
@@ -2162,7 +2162,7 @@ body.style-color {
 
 .flat-history .post-history .post .year-post {
     display: inline-block;
-    float: left;
+    /* float: left; */
     padding-left: 124px;
 }
 
@@ -2315,7 +2315,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -2350,7 +2350,7 @@ body.style-color {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     filter: alpha(opacity=0);
-    -webkit-transition: opacity 0.35s, -webkit-transform: 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
     -webkit-transform: scale(0);
     transition: opacity 0.35s, transform 0.35s;
     transition: all ease 0.4s;
@@ -2617,7 +2617,7 @@ body.style-color {
 
 .flat-services-control .post.v4 .box {
     display: inline-block;
-    float: left;
+    /* float: left; */
     width: 50%;
 }
 
