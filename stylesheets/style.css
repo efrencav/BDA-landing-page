@@ -288,7 +288,7 @@ body {
 }
 
 a {
-    color: #222;
+    color: #fff;
     text-decoration: none;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -299,7 +299,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #dd4e42;
+    color: #fff;
     text-decoration: none;
     outline: 0;
     -webkit-transition: all 0.3s ease-in-out;
